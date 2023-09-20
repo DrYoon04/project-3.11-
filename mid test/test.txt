@@ -1,0 +1,50 @@
+리스트가 전체문제의 70프로
+리스트에 접근하는 방법 인덱스 같은거
+튜플도 나옴
+음의 인덱스도 알아야함
+for while문 
+코드를 주고 결과를 써라 주로 그런문제
+인덱스 관련을 잘알아야함
+답을 한줄로 써야함
+안에 if 같은거 for 같은거 들거갈확률 많음
+논리 연산자 비교 연산자 이산수학 같은거 참고
+unit 8에 14페이지
+len
+pow
+find
+append
+continue
+break
+range
+for/while/if/if-esle/if-elif
+split
+replace
+remove
+strip
+min/max
+set
+강의중나왔던 함수 확인 실습때 나온 코드확인
+최종 결과를 예측해라 같은 문제가 80 퍼센트
+객관식 5문제 : 조건을 만족하는 코드 체크 답이 여러게 일수도 있음
+뉴스 긁어서 했던 문제 나옴 split, for 같은거
+답은 한줄 넘지 않겠끔 작성
+세자리수 곱하기 두자리 수 할줄알아야함
+코드 체우기 
+함수는 알아야함 def return
+2차원 리스트 하나 나옴
+
+
+
+문자열 인덱스 접근
+문자열 잘라서 인덱스 접근
+For문 사용해서 인덱스 접근
+음의 인덱스 사용
+주로 답 쓸때 한줄로 써야함
+True False 논리연산자 2~3 문제
+len, pow, find, append, continue, break, range, for, while, if, if-else, if-elif 숙지 
+코드 읽고 최종 결과 예측하는 문제
+객관식 5문항
+목적 만족하는 코드 고르기
+정답 여러개
+split, replace, remove, strip, min, max, set 숙지
+답만 쓰게끔 시험지 나눠짐
